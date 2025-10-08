@@ -29,3 +29,11 @@ https://kretova0319.github.io/Transfer-website/
 - **Git & GitHub**
 
 ---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/kretova0319/Transfer-website.git
+cd Transfer-website
+open index.html
+```
